@@ -13,6 +13,6 @@ Below is the list of all practice problems with their own HackerRank links, I ma
     Project                       HackerRank Link
    ==================             ===============
    leap_year_function             
-   list_comprehension             List-Comprehension <https://www.hackerrank.com/challenges/list-comprehensions/problem>
+   list_comprehension             `link List-Comprehension <https://www.hackerrank.com/challenges/list-comprehensions/problem>`_
 
    ==================             ===============
