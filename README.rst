@@ -6,12 +6,13 @@ This repo is a combination of my completed HackerRank problems, along with their
 
 Below is the list of all practice problems with their own HackerRank links, I may or may not add the full prompts to the individual repo folders.
 
-.. table:: Truth table for "not"
+.. table::
    :widths: auto
 
-   =====  =====
-     A    not A
-   =====  =====
-   False  True
-   True   False
-   =====  =====
+   ==================             ===============
+    Project                       HackerRank Link
+   ==================             ===============
+   leap_year_function             
+   list_comprehension             List-Comprehension <https://www.hackerrank.com/challenges/list-comprehensions/problem>
+
+   ==================             ===============
